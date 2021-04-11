@@ -19,7 +19,7 @@ packages in your app.
 
 Some files are provided, including `UserInput` and the reducer, `manageUsers`,
 but the **Redux** store isn't fully hooked up yet.
-
+ 
 #### Connecting to Redux
 
 In `src/index.js`, use the `createStore` method from `redux`, passing in the 
